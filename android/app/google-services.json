@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254564875028",
+    "project_id": "my-test-project-f91ed",
+    "storage_bucket": "my-test-project-f91ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254564875028:android:eff9e4a6f39ab142962001",
+        "android_client_info": {
+          "package_name": "com.raasithprojects.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-kdUQZ1a5GvdwLMoRpIK8An7U9tq1YvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
